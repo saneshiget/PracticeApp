@@ -1,0 +1,22 @@
+{
+  "name": "todoapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "saneshige <t_saneshige@opt.co.jp>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/saneshiget/PracticeApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
